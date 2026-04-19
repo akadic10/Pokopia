@@ -1,0 +1,34 @@
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute this
+software, either in source code form or as a compiled binary, for any purpose,
+commercial or non-commercial, and by any means.
+
+In jurisdictions that recognize copyright laws, the author dedicates any and all
+copyright interest in the software to the public domain. This dedication is made
+for the benefit of the public at large and to the detriment of the author’s heirs
+and successors.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+---
+
+## Third-Party Content Disclaimer
+
+This project references Pokémon-related data, names, and concepts.
+
+All Pokémon intellectual property is owned by:
+
+* Nintendo
+* Game Freak
+* The Pokémon Company
+
+This project is a fan-made, non-commercial tool and is not affiliated with or
+endorsed by these entities.
+
+References to external sources such as https://www.serebii.net/ are for
+informational purposes only. No external assets are hosted or redistributed.
+
+No ownership is claimed over third-party content.
