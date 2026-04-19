@@ -11,7 +11,7 @@ A lightweight HTML tool for exploring Pokémon preferences and grouped favorites
 
 ## How to Use
 
-1. Download or clone this repository
+1. Download pokemon_pokopia_grouped_v100.html
 2. Open `pokemon_pokopia_grouped_v100.html` in your browser
 3. No installation required
 
